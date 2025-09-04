@@ -6,7 +6,3 @@
 ## 🛠️ Skills
 - Flutter / Dart  
 - C++ / Python  
-- MySQL / Firebase  
-
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed123&show_icons=true&theme=radical)
